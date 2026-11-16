@@ -181,7 +181,12 @@ function drawGraph(d, box){
   const width = x - GX + PAD;
   const pos = {};
   cols.forEach((c,ci)=>{ const top=(height-(c.length*(H+GY)-GY))/2; c.forEach((n,i)=>pos[n.id]={x:xs[ci],y:top+i*(H+GY),w:widths[ci]}); });
-  const svg = sv("svg",{width,height,viewBox:"0 0 "+width+" "+height});
+  const svg = sv("svg", {
+    width,
+    height,
+    viewBox: "0 0 " + width + " " + height,
+    preserveAspectRatio: "xMinYMin meet"
+});
   const curve = (a,b,attrs,tip)=>{
     const x1=a.x+a.w,y1=a.y+H/2,x2=b.x,y2=b.y+H/2,mx=(x1+x2)/2;
     const p=sv("path",Object.assign({d:`M${x1} ${y1} C${mx} ${y1} ${mx} ${y2} ${x2} ${y2}`,fill:"none"},attrs));
