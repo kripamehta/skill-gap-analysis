@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SkillPath AI</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header><div><h1>SkillPath AI</h1><p>Skill gap analysis &amp; personalized, prerequisite-aware learning pathways</p></div><div id="status">checking API...</div></header>
+<main>
+<div>
+<section class="card">
+  <h2>Your profile</h2>
+  <label for="occ">Target career</label>
+  <select id="occ"></select>
+  <label for="skillIn">Current skills</label>
+  <input type="text" id="skillIn" list="skillList" placeholder="Type a skill and press Enter" autocomplete="off">
+  <datalist id="skillList"></datalist>
+  <div class="chips" id="mine"></div>
+  <div class="chips" id="sug"></div>
+  <label for="hpw">Hours per week: <span id="hpwV">10</span></label>
+  <input type="range" id="hpw" min="1" max="40" step="1" value="10">
+  <label for="wks">Weeks available: <span id="wksV">4</span></label>
+  <input type="range" id="wks" min="1" max="24" step="1" value="4">
+  <div class="note" id="tot">Total budget: 40 hours</div>
+  <button class="go" id="go">Analyze my skill gap</button>
+</section>
+<section class="card hide" id="hist"><h2>Recent analyses</h2><div id="histList"></div></section>
+</div>
+<section id="out">
+  <div class="card"><h2>How it works</h2><p style="margin:0;color:var(--mute)">Pick a target career, add the skills you already have and your study time. You get skill gaps ranked by job-market demand, a dependency graph showing what must be learned first, and three learning pathways ordered by prerequisites and explained course by course.</p></div>
+</section>
+</main>
+<footer>SkillPath AI prototype • <a href="/docs" target="_blank">API documentation</a> • <a href="/feedback/summary" target="_blank">Evaluation feedback summary</a></footer>
+<script src="demo-data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

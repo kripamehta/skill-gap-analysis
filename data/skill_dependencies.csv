@@ -1,0 +1,35 @@
+prerequisite_skill,dependent_skill,dependency_strength,rationale
+Excel,SQL,RECOMMENDED,Spreadsheet tabular models establish foundational concepts of rows and columns prior to SQL declarative querying.
+SQL,Data Analysis,STRICT,Must be able to query filter and aggregate data from databases before performing exploratory data analysis.
+Data Analysis,Power BI,STRICT,Understanding metrics and dimensions is essential before building multi-table BI data models and dashboards.
+Data Analysis,Data Visualization,RECOMMENDED,Understanding statistical distributions informs appropriate chart selection and visual storytelling.
+Python,Pandas,STRICT,Pandas data structures require foundational Python syntax variables loops and functions.
+Pandas,Data Analysis,RECOMMENDED,Dataframe manipulation allows automated cleaning filtering and summary statistics on large datasets.
+Pandas,Machine Learning,STRICT,Training ML models requires preparing feature matrices and encoding categorical variables via Pandas.
+Linear Algebra & Calculus,Statistical Modeling,RECOMMENDED,Mathematical grounding in matrix operations and derivatives is essential for understanding statistical distributions.
+Statistical Modeling,Machine Learning,STRICT,Evaluating predictive algorithms relies on statistical hypothesis testing variance loss metrics and overfitting concepts.
+Machine Learning,Scikit-Learn,STRICT,Applying Scikit-Learn algorithms requires knowing the theoretical differences between classification regression and clustering.
+Machine Learning,Deep Learning,STRICT,Deep neural networks expand upon classical gradient descent regularization and loss minimization.
+HTML,JavaScript,STRICT,Document Object Model DOM and styling primitives are required before manipulating browser elements with code.
+CSS,JavaScript,STRICT,Document Object Model DOM and styling primitives are required before manipulating browser elements with code.
+JavaScript,React,STRICT,React components and hooks rely on modern ECMAScript features arrow functions destructuring and closures.
+JavaScript,TypeScript,RECOMMENDED,TypeScript introduces static types and interfaces on top of standard JavaScript runtime behavior.
+JavaScript,Node.js,STRICT,Server-side Node.js programming uses asynchronous JavaScript event loop and Promise handling.
+Node.js,REST API Design,STRICT,Creating RESTful APIs requires an understanding of HTTP verbs status codes and backend request handling.
+SQL,Data Modeling,STRICT,Normal forms and relational keys require familiarity with table joins primary/foreign keys and queries.
+Data Modeling,Data Warehousing,STRICT,Data warehousing builds upon dimensional modeling star schemas and fact/dimension tables.
+SQL,ETL Pipeline Development,STRICT,Extract-Transform-Load pipelines rely heavily on SQL transformations and data validation queries.
+Python,ETL Pipeline Development,STRICT,Production data pipelines and orchestrators are programmed in Python scripts and DAG definitions.
+Python,Apache Spark,RECOMMENDED,PySpark interfaces with distributed clusters using Python dataframe APIs.
+Linux,Docker,STRICT,Container images run on Linux base layers and Dockerfiles execute shell commands for setup.
+Bash Scripting,Docker,STRICT,Container images run on Linux base layers and Dockerfiles execute shell commands for setup.
+Docker,Kubernetes,STRICT,Kubernetes orchestrates container pods; one must understand containerization before cluster orchestration.
+Linux,Cloud Architecture (AWS/GCP),RECOMMENDED,Cloud virtual machines and infrastructure management rely on Linux permissions and shell access.
+Bash Scripting,Cloud Architecture (AWS/GCP),RECOMMENDED,Cloud virtual machines and infrastructure management rely on Linux permissions and shell access.
+Cloud Architecture (AWS/GCP),Terraform (IaC),STRICT,Infrastructure as Code manages cloud resources like VPCs IAM and subnets which must be understood first.
+Git & Version Control,CI/CD Pipelines,STRICT,Automated pipelines trigger on Git branch commits pull requests and tags.
+Linux,Network Security,RECOMMENDED,Network monitoring commands netstat tcpdump and routing diagnostics run directly in the Linux terminal.
+Bash Scripting,Network Security,RECOMMENDED,Network monitoring commands netstat tcpdump and routing diagnostics run directly in the Linux terminal.
+Network Security,Vulnerability Assessment,STRICT,Assessing vulnerabilities requires deep knowledge of network ports protocols firewalls and packet structure.
+Network Security,Incident Response,STRICT,Triaging intrusions requires identifying abnormal traffic signatures and compromised system logs.
+Network Security,SIEM & Log Analysis,STRICT,Aggregating security logs across endpoints assumes baseline knowledge of network attack vectors.

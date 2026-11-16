@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Runtime database (created automatically)
+data/skillpath.db
+*.log
+
+# Large raw datasets: download them separately (see README, "Data")
+data/raw/*
+!data/raw/courses.csv
+data/onet/
+
+# Intermediate pipeline files: only the two files the app reads are tracked
+data/processed/*
+!data/processed/skill_demand_normalized.csv
+!data/processed/occupation_skill_relevance.csv

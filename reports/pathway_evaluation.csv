@@ -1,0 +1,379 @@
+career,profile,budget_hours,pathway,courses,hours,skill_coverage_pct,demand_coverage_pct,avg_rating,prerequisites_valid,within_budget,quality_score
+AI Engineer,beginner,20,FASTEST,1,20.0,13.33,22.31,4.6,True,True,33.91
+AI Engineer,beginner,20,COMPREHENSIVE,1,20.0,13.33,22.31,4.6,True,True,33.91
+AI Engineer,beginner,40,FASTEST,1,20.0,13.33,22.31,4.6,True,True,33.91
+AI Engineer,beginner,40,COMPREHENSIVE,2,25.0,20.0,32.09,4.7,True,True,40.84
+AI Engineer,beginner,40,BALANCED,2,36.0,20.0,32.09,4.7,True,True,40.84
+AI Engineer,beginner,80,FASTEST,1,20.0,13.33,22.31,4.6,True,True,33.91
+AI Engineer,beginner,80,COMPREHENSIVE,4,70.0,33.33,52.45,4.65,True,True,54.57
+AI Engineer,beginner,80,BALANCED,3,55.0,26.67,47.36,4.7,True,True,50.05
+AI Engineer,beginner,160,FASTEST,1,20.0,13.33,22.31,4.6,True,True,33.91
+AI Engineer,beginner,160,COMPREHENSIVE,4,135.0,53.33,80.04,4.7,True,True,74.08
+AI Engineer,beginner,160,BALANCED,4,146.0,53.33,80.04,4.7,True,True,74.08
+AI Engineer,intermediate,20,FASTEST,1,5.0,7.69,12.82,4.8,True,True,28.06
+AI Engineer,intermediate,20,COMPREHENSIVE,1,5.0,7.69,12.82,4.8,True,True,28.06
+AI Engineer,intermediate,20,BALANCED,1,16.0,7.69,12.82,4.8,True,True,28.06
+AI Engineer,intermediate,40,FASTEST,1,5.0,7.69,12.82,4.8,True,True,28.06
+AI Engineer,intermediate,40,COMPREHENSIVE,2,30.0,15.38,16.41,4.75,True,True,32.27
+AI Engineer,intermediate,40,BALANCED,2,25.0,15.38,15.38,4.7,True,True,31.7
+AI Engineer,intermediate,80,FASTEST,2,50.0,15.38,22.56,4.65,True,True,34.84
+AI Engineer,intermediate,80,COMPREHENSIVE,4,73.0,38.46,45.13,4.65,True,True,53.07
+AI Engineer,intermediate,80,BALANCED,4,70.0,30.77,42.05,4.65,True,True,48.99
+AI Engineer,intermediate,160,FASTEST,2,50.0,15.38,22.56,4.65,True,True,34.84
+AI Engineer,intermediate,160,COMPREHENSIVE,4,135.0,53.85,78.2,4.7,True,True,73.44
+AI Engineer,intermediate,160,BALANCED,4,146.0,53.85,78.2,4.7,True,True,73.44
+Backend Developer,beginner,20,FASTEST,1,8.0,4.55,9.3,4.5,True,True,24.78
+Backend Developer,beginner,20,COMPREHENSIVE,2,17.0,18.18,19.71,4.55,True,True,34.33
+Backend Developer,beginner,20,BALANCED,2,17.0,9.09,18.19,4.55,True,True,30.47
+Backend Developer,beginner,40,FASTEST,2,35.4,22.73,30.11,4.75,True,True,41.0
+Backend Developer,beginner,40,COMPREHENSIVE,4,36.0,31.82,34.33,4.6,True,True,45.79
+Backend Developer,beginner,40,BALANCED,4,34.0,27.27,31.4,4.6,True,True,42.87
+Backend Developer,beginner,80,FASTEST,2,35.4,22.73,30.11,4.75,True,True,41.0
+Backend Developer,beginner,80,COMPREHENSIVE,4,76.4,40.91,51.21,4.75,True,True,56.86
+Backend Developer,beginner,80,BALANCED,4,50.4,45.45,48.09,4.7,True,True,56.95
+Backend Developer,beginner,160,FASTEST,2,35.4,22.73,30.11,4.75,True,True,41.0
+Backend Developer,beginner,160,COMPREHENSIVE,4,155.4,45.45,62.92,4.7,True,True,63.62
+Backend Developer,beginner,160,BALANCED,4,50.4,45.45,48.09,4.7,True,True,56.95
+Backend Developer,intermediate,20,FASTEST,1,8.0,5.0,11.42,4.5,True,True,25.89
+Backend Developer,intermediate,20,COMPREHENSIVE,2,17.0,10.0,22.33,4.55,True,True,32.65
+Backend Developer,intermediate,20,BALANCED,2,18.0,15.0,18.45,4.6,True,True,32.75
+Backend Developer,intermediate,40,FASTEST,2,35.4,25.0,36.98,4.75,True,True,44.89
+Backend Developer,intermediate,40,COMPREHENSIVE,2,35.4,25.0,36.98,4.75,True,True,44.89
+Backend Developer,intermediate,40,BALANCED,4,36.0,30.0,32.49,4.6,True,True,44.32
+Backend Developer,intermediate,80,FASTEST,2,35.4,25.0,36.98,4.75,True,True,44.89
+Backend Developer,intermediate,80,COMPREHENSIVE,4,64.4,35.0,59.31,4.7,True,True,58.34
+Backend Developer,intermediate,80,BALANCED,4,49.4,40.0,57.68,4.67,True,True,59.3
+Backend Developer,intermediate,160,FASTEST,2,35.4,25.0,36.98,4.75,True,True,44.89
+Backend Developer,intermediate,160,COMPREHENSIVE,4,93.0,35.0,62.21,4.72,True,True,59.68
+Backend Developer,intermediate,160,BALANCED,4,49.4,40.0,57.68,4.67,True,True,59.3
+Cloud Engineer,beginner,20,FASTEST,1,6.0,19.05,29.9,4.7,True,True,39.52
+Cloud Engineer,beginner,20,COMPREHENSIVE,3,14.5,33.33,41.16,4.67,True,True,49.53
+Cloud Engineer,beginner,20,BALANCED,2,12.0,28.57,37.59,4.7,True,True,46.31
+Cloud Engineer,beginner,40,FASTEST,1,6.0,19.05,29.9,4.7,True,True,39.52
+Cloud Engineer,beginner,40,COMPREHENSIVE,4,37.4,57.14,62.11,4.72,True,True,67.39
+Cloud Engineer,beginner,40,BALANCED,4,37.4,52.38,56.54,4.72,True,True,63.22
+Cloud Engineer,beginner,80,FASTEST,1,6.0,19.05,29.9,4.7,True,True,39.52
+Cloud Engineer,beginner,80,COMPREHENSIVE,4,71.4,61.9,74.03,4.72,True,True,74.42
+Cloud Engineer,beginner,80,BALANCED,4,37.4,57.14,62.11,4.72,True,True,67.39
+Cloud Engineer,beginner,160,FASTEST,1,6.0,19.05,29.9,4.7,True,True,39.52
+Cloud Engineer,beginner,160,COMPREHENSIVE,4,96.0,57.14,75.97,4.78,True,True,73.75
+Cloud Engineer,beginner,160,BALANCED,4,71.4,61.9,74.03,4.72,True,True,74.42
+Cloud Engineer,intermediate,20,FASTEST,1,6.0,20.0,32.71,4.7,True,True,41.12
+Cloud Engineer,intermediate,20,COMPREHENSIVE,3,14.5,35.0,45.03,4.67,True,True,51.85
+Cloud Engineer,intermediate,20,BALANCED,2,12.0,30.0,41.13,4.7,True,True,48.41
+Cloud Engineer,intermediate,40,FASTEST,1,6.0,20.0,32.71,4.7,True,True,41.12
+Cloud Engineer,intermediate,40,COMPREHENSIVE,4,37.4,60.0,67.95,4.72,True,True,71.02
+Cloud Engineer,intermediate,40,BALANCED,4,37.4,55.0,61.85,4.72,True,True,66.52
+Cloud Engineer,intermediate,80,FASTEST,1,6.0,20.0,32.71,4.7,True,True,41.12
+Cloud Engineer,intermediate,80,COMPREHENSIVE,4,71.4,65.0,80.99,4.72,True,True,78.64
+Cloud Engineer,intermediate,80,BALANCED,4,37.4,60.0,67.95,4.72,True,True,71.02
+Cloud Engineer,intermediate,160,FASTEST,1,6.0,20.0,32.71,4.7,True,True,41.12
+Cloud Engineer,intermediate,160,COMPREHENSIVE,4,85.0,65.0,82.25,4.72,True,True,79.2
+Cloud Engineer,intermediate,160,BALANCED,4,71.4,65.0,80.99,4.72,True,True,78.64
+Cybersecurity Analyst,beginner,20,FASTEST,1,6.0,12.5,13.61,4.7,True,True,29.9
+Cybersecurity Analyst,beginner,20,COMPREHENSIVE,1,15.0,25.0,24.23,4.6,True,True,38.85
+Cybersecurity Analyst,beginner,20,BALANCED,1,19.0,25.0,21.23,4.7,True,True,37.7
+Cybersecurity Analyst,beginner,40,FASTEST,2,38.0,50.0,61.96,4.7,True,True,64.78
+Cybersecurity Analyst,beginner,40,COMPREHENSIVE,2,38.0,50.0,61.96,4.7,True,True,64.78
+Cybersecurity Analyst,beginner,40,BALANCED,2,33.0,37.5,36.91,4.7,True,True,49.13
+Cybersecurity Analyst,beginner,80,FASTEST,2,38.0,50.0,61.96,4.7,True,True,64.78
+Cybersecurity Analyst,beginner,80,COMPREHENSIVE,3,65.0,75.0,85.26,4.7,True,True,84.02
+Cybersecurity Analyst,beginner,80,BALANCED,4,71.0,75.0,85.26,4.7,True,True,84.02
+Cybersecurity Analyst,beginner,160,FASTEST,2,38.0,50.0,61.96,4.7,True,True,64.78
+Cybersecurity Analyst,beginner,160,COMPREHENSIVE,4,94.0,87.5,92.89,4.72,True,True,91.87
+Cybersecurity Analyst,beginner,160,BALANCED,4,84.0,87.5,92.89,4.7,True,True,91.83
+Cybersecurity Analyst,intermediate,20,FASTEST,1,6.0,14.29,14.65,4.7,True,True,30.99
+Cybersecurity Analyst,intermediate,20,COMPREHENSIVE,1,15.0,28.57,26.08,4.6,True,True,40.94
+Cybersecurity Analyst,intermediate,20,BALANCED,1,19.0,28.57,22.86,4.7,True,True,39.69
+Cybersecurity Analyst,intermediate,40,FASTEST,2,38.0,57.14,66.7,4.7,True,True,69.41
+Cybersecurity Analyst,intermediate,40,COMPREHENSIVE,2,38.0,57.14,66.7,4.7,True,True,69.41
+Cybersecurity Analyst,intermediate,40,BALANCED,2,33.0,42.86,39.73,4.7,True,True,52.28
+Cybersecurity Analyst,intermediate,80,FASTEST,2,38.0,57.14,66.7,4.7,True,True,69.41
+Cybersecurity Analyst,intermediate,80,COMPREHENSIVE,3,65.0,85.71,91.79,4.7,True,True,90.7
+Cybersecurity Analyst,intermediate,80,BALANCED,4,71.0,85.71,91.79,4.7,True,True,90.7
+Cybersecurity Analyst,intermediate,160,FASTEST,2,38.0,57.14,66.7,4.7,True,True,69.41
+Cybersecurity Analyst,intermediate,160,COMPREHENSIVE,4,94.0,100.0,100.0,4.72,True,True,99.44
+Cybersecurity Analyst,intermediate,160,BALANCED,4,84.0,100.0,100.0,4.7,True,True,99.4
+Data Analyst,beginner,20,FASTEST,1,9.0,18.18,44.73,4.6,True,True,45.69
+Data Analyst,beginner,20,COMPREHENSIVE,1,20.0,18.18,44.73,4.7,True,True,45.89
+Data Analyst,beginner,40,FASTEST,1,9.0,18.18,44.73,4.6,True,True,45.69
+Data Analyst,beginner,40,COMPREHENSIVE,2,40.0,45.45,67.49,4.75,True,True,65.78
+Data Analyst,beginner,40,BALANCED,2,25.0,36.36,64.02,4.65,True,True,60.83
+Data Analyst,beginner,80,FASTEST,1,9.0,18.18,44.73,4.6,True,True,45.69
+Data Analyst,beginner,80,COMPREHENSIVE,4,79.0,63.64,80.97,4.72,True,True,78.15
+Data Analyst,beginner,80,BALANCED,3,55.0,54.55,74.07,4.7,True,True,71.82
+Data Analyst,beginner,160,FASTEST,1,9.0,18.18,44.73,4.6,True,True,45.69
+Data Analyst,beginner,160,COMPREHENSIVE,4,132.0,63.64,82.58,4.83,True,True,79.09
+Data Analyst,beginner,160,BALANCED,4,90.0,72.73,81.31,4.7,True,True,81.45
+Data Analyst,intermediate,20,FASTEST,1,9.0,11.11,35.27,4.6,True,True,38.96
+Data Analyst,intermediate,20,COMPREHENSIVE,1,16.0,33.33,61.8,4.7,True,True,58.88
+Data Analyst,intermediate,20,BALANCED,1,20.0,11.11,35.27,4.7,True,True,39.16
+Data Analyst,intermediate,40,FASTEST,1,9.0,11.11,35.27,4.6,True,True,38.96
+Data Analyst,intermediate,40,COMPREHENSIVE,2,40.0,44.44,71.28,4.75,True,True,67.13
+Data Analyst,intermediate,40,BALANCED,1,16.0,33.33,61.8,4.7,True,True,58.88
+Data Analyst,intermediate,80,FASTEST,1,9.0,11.11,35.27,4.6,True,True,38.96
+Data Analyst,intermediate,80,COMPREHENSIVE,3,70.0,66.67,85.1,4.77,True,True,81.17
+Data Analyst,intermediate,80,BALANCED,2,46.0,55.56,75.62,4.75,True,True,72.97
+Data Analyst,intermediate,160,FASTEST,1,9.0,11.11,35.27,4.6,True,True,38.96
+Data Analyst,intermediate,160,COMPREHENSIVE,4,130.0,77.78,92.27,4.7,True,True,88.14
+Data Analyst,intermediate,160,BALANCED,4,95.0,77.78,89.16,4.75,True,True,86.84
+Data Engineer,beginner,20,FASTEST,1,20.0,11.11,24.51,4.6,True,True,34.12
+Data Engineer,beginner,20,COMPREHENSIVE,2,19.0,27.78,29.74,4.65,True,True,42.41
+Data Engineer,beginner,20,BALANCED,2,17.0,22.22,27.66,4.55,True,True,39.32
+Data Engineer,beginner,40,FASTEST,1,20.0,11.11,24.51,4.6,True,True,34.12
+Data Engineer,beginner,40,COMPREHENSIVE,3,39.0,38.89,54.25,4.63,True,True,57.28
+Data Engineer,beginner,40,BALANCED,3,37.0,33.33,52.17,4.57,True,True,54.28
+Data Engineer,beginner,80,FASTEST,1,20.0,11.11,24.51,4.6,True,True,34.12
+Data Engineer,beginner,80,COMPREHENSIVE,4,75.0,55.56,66.84,4.67,True,True,68.86
+Data Engineer,beginner,80,BALANCED,4,47.0,44.44,61.92,4.6,True,True,62.62
+Data Engineer,beginner,160,FASTEST,1,20.0,11.11,24.51,4.6,True,True,34.12
+Data Engineer,beginner,160,COMPREHENSIVE,4,153.0,61.11,73.85,4.62,True,True,73.86
+Data Engineer,beginner,160,BALANCED,4,75.0,55.56,66.84,4.67,True,True,68.86
+Data Engineer,intermediate,20,FASTEST,1,20.0,6.25,13.21,4.6,True,True,27.33
+Data Engineer,intermediate,20,COMPREHENSIVE,2,18.0,18.75,24.17,4.6,True,True,36.64
+Data Engineer,intermediate,20,BALANCED,2,17.0,18.75,20.44,4.55,True,True,34.86
+Data Engineer,intermediate,40,FASTEST,1,20.0,6.25,13.21,4.6,True,True,27.33
+Data Engineer,intermediate,40,COMPREHENSIVE,4,35.0,37.5,42.88,4.62,True,True,51.66
+Data Engineer,intermediate,40,BALANCED,3,27.0,31.25,33.97,4.6,True,True,45.42
+Data Engineer,intermediate,80,FASTEST,1,20.0,6.25,13.21,4.6,True,True,27.33
+Data Engineer,intermediate,80,COMPREHENSIVE,4,74.0,43.75,54.84,4.65,True,True,59.29
+Data Engineer,intermediate,80,BALANCED,4,63.0,50.0,51.43,4.65,True,True,59.94
+Data Engineer,intermediate,160,FASTEST,1,20.0,6.25,13.21,4.6,True,True,27.33
+Data Engineer,intermediate,160,COMPREHENSIVE,4,153.0,56.25,63.72,4.62,True,True,67.6
+Data Engineer,intermediate,160,BALANCED,4,75.0,50.0,53.99,4.67,True,True,61.14
+Data Scientist,beginner,20,FASTEST,1,20.0,9.52,17.29,4.6,True,True,30.31
+Data Scientist,beginner,20,COMPREHENSIVE,1,20.0,9.52,17.29,4.6,True,True,30.31
+Data Scientist,beginner,40,FASTEST,1,20.0,9.52,17.29,4.6,True,True,30.31
+Data Scientist,beginner,40,COMPREHENSIVE,2,40.0,19.05,34.22,4.65,True,True,41.37
+Data Scientist,beginner,40,BALANCED,2,29.0,19.05,34.22,4.6,True,True,41.27
+Data Scientist,beginner,80,FASTEST,1,20.0,9.52,17.29,4.6,True,True,30.31
+Data Scientist,beginner,80,COMPREHENSIVE,4,79.0,33.33,58.34,4.62,True,True,57.16
+Data Scientist,beginner,80,BALANCED,3,59.0,28.57,54.5,4.63,True,True,53.78
+Data Scientist,beginner,160,FASTEST,1,20.0,9.52,17.29,4.6,True,True,30.31
+Data Scientist,beginner,160,COMPREHENSIVE,4,159.0,52.38,65.34,4.62,True,True,66.98
+Data Scientist,beginner,160,BALANCED,4,109.0,42.86,60.61,4.65,True,True,61.58
+Data Scientist,intermediate,20,FASTEST,1,9.0,5.26,9.73,4.6,True,True,25.42
+Data Scientist,intermediate,20,COMPREHENSIVE,1,20.0,5.26,9.73,4.7,True,True,25.62
+Data Scientist,intermediate,20,BALANCED,1,20.0,5.26,4.97,4.6,True,True,23.28
+Data Scientist,intermediate,40,FASTEST,1,9.0,5.26,9.73,4.6,True,True,25.42
+Data Scientist,intermediate,40,COMPREHENSIVE,2,34.0,10.53,17.35,4.65,True,True,30.79
+Data Scientist,intermediate,40,BALANCED,2,29.0,10.53,14.7,4.6,True,True,29.5
+Data Scientist,intermediate,80,FASTEST,2,50.0,15.79,31.27,4.65,True,True,38.9
+Data Scientist,intermediate,80,COMPREHENSIVE,4,79.0,26.32,45.98,4.62,True,True,49.14
+Data Scientist,intermediate,80,BALANCED,4,74.0,26.32,44.6,4.6,True,True,48.48
+Data Scientist,intermediate,160,FASTEST,2,50.0,15.79,31.27,4.65,True,True,38.9
+Data Scientist,intermediate,160,COMPREHENSIVE,4,160.0,42.11,59.07,4.62,True,True,60.56
+Data Scientist,intermediate,160,BALANCED,4,139.0,42.11,53.79,4.65,True,True,58.24
+Database Administrator,beginner,20,FASTEST,1,9.0,42.86,57.05,4.6,True,True,59.87
+Database Administrator,beginner,20,COMPREHENSIVE,2,19.0,57.14,68.65,4.65,True,True,70.19
+Database Administrator,beginner,20,BALANCED,1,20.0,28.57,44.36,4.7,True,True,49.36
+Database Administrator,beginner,40,FASTEST,1,9.0,42.86,57.05,4.6,True,True,59.87
+Database Administrator,beginner,40,COMPREHENSIVE,3,37.0,71.43,84.17,4.7,True,True,82.28
+Database Administrator,beginner,40,BALANCED,2,19.0,57.14,68.65,4.65,True,True,70.19
+Database Administrator,beginner,80,FASTEST,1,9.0,42.86,57.05,4.6,True,True,59.87
+Database Administrator,beginner,80,COMPREHENSIVE,3,51.0,71.43,84.17,4.73,True,True,82.34
+Database Administrator,beginner,80,BALANCED,3,37.0,71.43,84.17,4.7,True,True,82.28
+Database Administrator,beginner,160,FASTEST,1,9.0,42.86,57.05,4.6,True,True,59.87
+Database Administrator,beginner,160,COMPREHENSIVE,4,151.0,85.71,94.51,4.72,True,True,91.97
+Database Administrator,beginner,160,BALANCED,3,37.0,71.43,84.17,4.7,True,True,82.28
+Database Administrator,intermediate,20,FASTEST,1,18.0,20.0,28.36,4.8,True,True,39.36
+Database Administrator,intermediate,20,COMPREHENSIVE,2,19.0,60.0,61.6,4.65,True,True,68.02
+Database Administrator,intermediate,20,BALANCED,1,9.0,40.0,40.4,4.6,True,True,51.38
+Database Administrator,intermediate,40,FASTEST,1,18.0,20.0,28.36,4.8,True,True,39.36
+Database Administrator,intermediate,40,COMPREHENSIVE,3,37.0,80.0,89.97,4.7,True,True,87.89
+Database Administrator,intermediate,40,BALANCED,2,19.0,60.0,61.6,4.65,True,True,68.02
+Database Administrator,intermediate,80,FASTEST,1,18.0,20.0,28.36,4.8,True,True,39.36
+Database Administrator,intermediate,80,COMPREHENSIVE,3,51.0,80.0,89.97,4.73,True,True,87.95
+Database Administrator,intermediate,80,BALANCED,3,37.0,80.0,89.97,4.7,True,True,87.89
+Database Administrator,intermediate,160,FASTEST,1,18.0,20.0,28.36,4.8,True,True,39.36
+Database Administrator,intermediate,160,COMPREHENSIVE,4,84.0,80.0,89.97,4.75,True,True,87.99
+Database Administrator,intermediate,160,BALANCED,3,37.0,80.0,89.97,4.7,True,True,87.89
+DevOps Engineer,beginner,20,FASTEST,1,6.0,16.67,21.82,4.7,True,True,35.05
+DevOps Engineer,beginner,20,COMPREHENSIVE,3,17.5,27.78,32.95,4.63,True,True,43.81
+DevOps Engineer,beginner,20,BALANCED,2,8.5,22.22,29.95,4.65,True,True,40.55
+DevOps Engineer,beginner,40,FASTEST,1,32.0,5.56,10.95,4.9,True,True,26.67
+DevOps Engineer,beginner,40,COMPREHENSIVE,4,37.4,55.56,66.38,4.72,True,True,68.76
+DevOps Engineer,beginner,40,BALANCED,4,33.9,55.56,64.42,4.7,True,True,67.84
+DevOps Engineer,beginner,80,FASTEST,1,32.0,5.56,10.95,4.9,True,True,26.67
+DevOps Engineer,beginner,80,COMPREHENSIVE,4,73.4,55.56,75.18,4.78,True,True,72.84
+DevOps Engineer,beginner,80,BALANCED,4,43.9,55.56,72.36,4.7,True,True,71.41
+DevOps Engineer,beginner,160,FASTEST,1,32.0,5.56,10.95,4.9,True,True,26.67
+DevOps Engineer,beginner,160,COMPREHENSIVE,4,73.4,55.56,75.18,4.78,True,True,72.84
+DevOps Engineer,beginner,160,BALANCED,4,43.9,55.56,72.36,4.7,True,True,71.41
+DevOps Engineer,intermediate,20,FASTEST,1,6.0,17.65,24.5,4.7,True,True,36.6
+DevOps Engineer,intermediate,20,COMPREHENSIVE,3,17.5,29.41,37.0,4.63,True,True,46.2
+DevOps Engineer,intermediate,20,BALANCED,2,8.5,23.53,33.63,4.65,True,True,42.67
+DevOps Engineer,intermediate,40,FASTEST,1,28.0,23.53,34.13,4.8,True,True,43.19
+DevOps Engineer,intermediate,40,COMPREHENSIVE,4,37.4,58.82,74.54,4.72,True,True,73.57
+DevOps Engineer,intermediate,40,BALANCED,4,33.9,58.82,72.33,4.7,True,True,72.54
+DevOps Engineer,intermediate,80,FASTEST,1,28.0,23.53,34.13,4.8,True,True,43.19
+DevOps Engineer,intermediate,80,COMPREHENSIVE,4,43.9,58.82,81.25,4.7,True,True,76.55
+DevOps Engineer,intermediate,80,BALANCED,4,37.4,58.82,74.54,4.72,True,True,73.57
+DevOps Engineer,intermediate,160,FASTEST,1,28.0,23.53,34.13,4.8,True,True,43.19
+DevOps Engineer,intermediate,160,COMPREHENSIVE,4,43.9,58.82,81.25,4.7,True,True,76.55
+DevOps Engineer,intermediate,160,BALANCED,4,52.4,64.71,77.04,4.72,True,True,76.76
+Frontend Developer,beginner,20,FASTEST,1,12.0,11.11,14.38,4.6,True,True,29.56
+Frontend Developer,beginner,20,COMPREHENSIVE,1,12.0,11.11,14.38,4.6,True,True,29.56
+Frontend Developer,beginner,40,FASTEST,1,30.0,33.33,42.85,4.7,True,True,50.35
+Frontend Developer,beginner,40,COMPREHENSIVE,1,30.0,33.33,42.85,4.7,True,True,50.35
+Frontend Developer,beginner,40,BALANCED,1,12.0,11.11,14.38,4.6,True,True,29.56
+Frontend Developer,beginner,80,FASTEST,2,55.0,44.44,62.76,4.7,True,True,63.2
+Frontend Developer,beginner,80,COMPREHENSIVE,3,79.0,55.56,77.15,4.7,True,True,73.56
+Frontend Developer,beginner,80,BALANCED,3,67.0,55.56,77.15,4.67,True,True,73.5
+Frontend Developer,beginner,160,FASTEST,2,55.0,44.44,62.76,4.7,True,True,63.2
+Frontend Developer,beginner,160,COMPREHENSIVE,4,149.0,77.78,92.85,4.55,True,True,88.11
+Frontend Developer,beginner,160,BALANCED,4,121.0,77.78,90.57,4.72,True,True,87.42
+Frontend Developer,intermediate,20,FASTEST,1,12.0,12.5,14.91,4.6,True,True,30.28
+Frontend Developer,intermediate,20,COMPREHENSIVE,1,12.0,12.5,14.91,4.6,True,True,30.28
+Frontend Developer,intermediate,40,FASTEST,1,30.0,37.5,44.41,4.7,True,True,52.51
+Frontend Developer,intermediate,40,COMPREHENSIVE,1,30.0,37.5,44.41,4.7,True,True,52.51
+Frontend Developer,intermediate,40,BALANCED,1,12.0,12.5,14.91,4.6,True,True,30.28
+Frontend Developer,intermediate,80,FASTEST,2,55.0,50.0,65.05,4.7,True,True,66.17
+Frontend Developer,intermediate,80,COMPREHENSIVE,3,79.0,62.5,79.96,4.7,True,True,77.26
+Frontend Developer,intermediate,80,BALANCED,3,67.0,62.5,79.96,4.67,True,True,77.2
+Frontend Developer,intermediate,160,FASTEST,2,55.0,50.0,65.05,4.7,True,True,66.17
+Frontend Developer,intermediate,160,COMPREHENSIVE,4,149.0,87.5,96.23,4.55,True,True,93.03
+Frontend Developer,intermediate,160,BALANCED,3,89.0,75.0,90.23,4.67,True,True,86.19
+Full Stack Developer,beginner,20,FASTEST,1,8.0,3.85,8.6,4.5,True,True,24.22
+Full Stack Developer,beginner,20,COMPREHENSIVE,2,19.0,7.69,9.59,4.55,True,True,26.11
+Full Stack Developer,beginner,20,BALANCED,1,17.0,3.85,8.6,4.5,True,True,24.22
+Full Stack Developer,beginner,40,FASTEST,1,30.0,11.54,15.66,4.7,True,True,30.49
+Full Stack Developer,beginner,40,COMPREHENSIVE,2,38.0,15.38,24.26,4.6,True,True,35.5
+Full Stack Developer,beginner,40,BALANCED,2,36.0,11.54,21.07,4.65,True,True,32.82
+Full Stack Developer,beginner,80,FASTEST,1,30.0,11.54,15.66,4.7,True,True,30.49
+Full Stack Developer,beginner,80,COMPREHENSIVE,4,73.4,34.62,46.29,4.67,True,True,52.29
+Full Stack Developer,beginner,80,BALANCED,4,71.4,38.46,44.75,4.72,True,True,53.04
+Full Stack Developer,beginner,160,FASTEST,1,30.0,11.54,15.66,4.7,True,True,30.49
+Full Stack Developer,beginner,160,COMPREHENSIVE,4,143.4,42.31,52.12,4.7,True,True,57.66
+Full Stack Developer,beginner,160,BALANCED,4,71.4,38.46,44.75,4.72,True,True,53.04
+Full Stack Developer,intermediate,20,FASTEST,1,8.0,4.17,10.08,4.5,True,True,25.0
+Full Stack Developer,intermediate,20,COMPREHENSIVE,2,19.0,8.33,11.23,4.55,True,True,27.07
+Full Stack Developer,intermediate,20,BALANCED,1,17.0,4.17,10.08,4.5,True,True,25.0
+Full Stack Developer,intermediate,40,FASTEST,1,30.0,12.5,18.34,4.7,True,True,32.03
+Full Stack Developer,intermediate,40,COMPREHENSIVE,2,38.0,16.67,28.42,4.6,True,True,37.82
+Full Stack Developer,intermediate,40,BALANCED,2,35.4,20.83,25.8,4.75,True,True,38.4
+Full Stack Developer,intermediate,80,FASTEST,1,30.0,12.5,18.34,4.7,True,True,32.03
+Full Stack Developer,intermediate,80,COMPREHENSIVE,4,73.4,37.5,54.22,4.67,True,True,56.86
+Full Stack Developer,intermediate,80,BALANCED,4,71.4,41.67,52.41,4.72,True,True,57.61
+Full Stack Developer,intermediate,160,FASTEST,1,30.0,12.5,18.34,4.7,True,True,32.03
+Full Stack Developer,intermediate,160,COMPREHENSIVE,4,159.0,50.0,61.14,4.62,True,True,64.25
+Full Stack Developer,intermediate,160,BALANCED,4,89.0,45.83,54.78,4.62,True,True,59.93
+Machine Learning Engineer,beginner,20,FASTEST,1,20.0,12.5,21.81,4.6,True,True,33.39
+Machine Learning Engineer,beginner,20,COMPREHENSIVE,1,20.0,12.5,21.81,4.6,True,True,33.39
+Machine Learning Engineer,beginner,40,FASTEST,1,20.0,12.5,21.81,4.6,True,True,33.39
+Machine Learning Engineer,beginner,40,COMPREHENSIVE,2,36.0,18.75,23.08,4.7,True,True,36.35
+Machine Learning Engineer,beginner,40,BALANCED,1,32.0,6.25,16.93,4.9,True,True,29.61
+Machine Learning Engineer,beginner,80,FASTEST,1,20.0,12.5,21.81,4.6,True,True,33.39
+Machine Learning Engineer,beginner,80,COMPREHENSIVE,3,65.0,25.0,48.03,4.6,True,True,49.56
+Machine Learning Engineer,beginner,80,BALANCED,3,70.0,25.0,39.57,4.63,True,True,45.82
+Machine Learning Engineer,beginner,160,FASTEST,1,20.0,12.5,21.81,4.6,True,True,33.39
+Machine Learning Engineer,beginner,160,COMPREHENSIVE,4,160.0,43.75,67.7,4.65,True,True,65.08
+Machine Learning Engineer,beginner,160,BALANCED,4,115.0,43.75,67.7,4.62,True,True,65.02
+Machine Learning Engineer,intermediate,20,FASTEST,1,20.0,7.14,6.13,4.6,True,True,24.46
+Machine Learning Engineer,intermediate,20,COMPREHENSIVE,1,20.0,7.14,6.13,4.6,True,True,24.46
+Machine Learning Engineer,intermediate,20,BALANCED,1,16.0,7.14,1.6,4.8,True,True,22.82
+Machine Learning Engineer,intermediate,40,FASTEST,1,20.0,7.14,6.13,4.6,True,True,24.46
+Machine Learning Engineer,intermediate,40,COMPREHENSIVE,2,36.0,14.29,7.72,4.7,True,True,27.88
+Machine Learning Engineer,intermediate,40,BALANCED,1,28.0,7.14,3.89,4.6,True,True,23.45
+Machine Learning Engineer,intermediate,80,FASTEST,2,50.0,14.29,22.27,4.65,True,True,34.32
+Machine Learning Engineer,intermediate,80,COMPREHENSIVE,3,68.0,28.57,42.9,4.6,True,True,48.5
+Machine Learning Engineer,intermediate,80,BALANCED,3,65.0,21.43,39.01,4.6,True,True,44.26
+Machine Learning Engineer,intermediate,160,FASTEST,2,50.0,14.29,22.27,4.65,True,True,34.32
+Machine Learning Engineer,intermediate,160,COMPREHENSIVE,4,118.0,50.0,67.57,4.62,True,True,67.15
+Machine Learning Engineer,intermediate,160,BALANCED,4,115.0,42.86,63.68,4.62,True,True,62.9
+Mobile App Developer,beginner,20,FASTEST,1,12.0,12.5,32.7,4.6,True,True,38.29
+Mobile App Developer,beginner,20,COMPREHENSIVE,1,20.0,25.0,49.22,4.7,True,True,50.3
+Mobile App Developer,beginner,20,BALANCED,1,20.0,25.0,41.04,4.6,True,True,46.42
+Mobile App Developer,beginner,40,FASTEST,1,12.0,12.5,32.7,4.6,True,True,38.29
+Mobile App Developer,beginner,40,COMPREHENSIVE,2,40.0,37.5,57.56,4.65,True,True,58.33
+Mobile App Developer,beginner,40,BALANCED,2,31.0,37.5,55.65,4.65,True,True,57.47
+Mobile App Developer,beginner,80,FASTEST,1,12.0,12.5,32.7,4.6,True,True,38.29
+Mobile App Developer,beginner,80,COMPREHENSIVE,4,67.0,62.5,70.26,4.62,True,True,72.73
+Mobile App Developer,beginner,80,BALANCED,4,77.0,62.5,70.26,4.6,True,True,72.69
+Mobile App Developer,beginner,160,FASTEST,1,12.0,12.5,32.7,4.6,True,True,38.29
+Mobile App Developer,beginner,160,COMPREHENSIVE,4,106.0,62.5,81.22,4.65,True,True,77.72
+Mobile App Developer,beginner,160,BALANCED,4,102.0,62.5,79.13,4.65,True,True,76.78
+Mobile App Developer,intermediate,20,FASTEST,1,12.0,12.5,32.7,4.6,True,True,38.29
+Mobile App Developer,intermediate,20,COMPREHENSIVE,1,20.0,25.0,49.22,4.7,True,True,50.3
+Mobile App Developer,intermediate,20,BALANCED,1,20.0,25.0,41.04,4.6,True,True,46.42
+Mobile App Developer,intermediate,40,FASTEST,1,12.0,12.5,32.7,4.6,True,True,38.29
+Mobile App Developer,intermediate,40,COMPREHENSIVE,2,40.0,37.5,57.56,4.65,True,True,58.33
+Mobile App Developer,intermediate,40,BALANCED,2,31.0,37.5,55.65,4.65,True,True,57.47
+Mobile App Developer,intermediate,80,FASTEST,1,12.0,12.5,32.7,4.6,True,True,38.29
+Mobile App Developer,intermediate,80,COMPREHENSIVE,4,67.0,62.5,70.26,4.62,True,True,72.73
+Mobile App Developer,intermediate,80,BALANCED,4,77.0,62.5,70.26,4.6,True,True,72.69
+Mobile App Developer,intermediate,160,FASTEST,1,12.0,12.5,32.7,4.6,True,True,38.29
+Mobile App Developer,intermediate,160,COMPREHENSIVE,4,106.0,62.5,81.22,4.65,True,True,77.72
+Mobile App Developer,intermediate,160,BALANCED,4,102.0,62.5,79.13,4.65,True,True,76.78
+Network Engineer,beginner,20,FASTEST,1,6.0,10.0,17.19,4.7,True,True,30.64
+Network Engineer,beginner,20,COMPREHENSIVE,1,19.0,50.0,43.43,4.7,True,True,56.44
+Network Engineer,beginner,20,BALANCED,2,8.5,20.0,27.06,4.65,True,True,38.48
+Network Engineer,beginner,40,FASTEST,1,6.0,10.0,17.19,4.7,True,True,30.64
+Network Engineer,beginner,40,COMPREHENSIVE,3,38.5,50.0,57.62,4.7,True,True,62.83
+Network Engineer,beginner,40,BALANCED,2,21.5,60.0,53.29,4.65,True,True,64.28
+Network Engineer,beginner,80,FASTEST,1,6.0,10.0,17.19,4.7,True,True,30.64
+Network Engineer,beginner,80,COMPREHENSIVE,4,69.5,80.0,72.51,4.72,True,True,80.07
+Network Engineer,beginner,80,BALANCED,3,51.5,70.0,68.23,4.7,True,True,74.6
+Network Engineer,beginner,160,FASTEST,1,6.0,10.0,17.19,4.7,True,True,30.64
+Network Engineer,beginner,160,COMPREHENSIVE,4,69.5,80.0,72.51,4.72,True,True,80.07
+Network Engineer,beginner,160,BALANCED,3,51.5,70.0,68.23,4.7,True,True,74.6
+Network Engineer,intermediate,20,FASTEST,1,6.0,11.11,19.17,4.7,True,True,31.91
+Network Engineer,intermediate,20,COMPREHENSIVE,1,19.0,55.56,48.43,4.7,True,True,60.64
+Network Engineer,intermediate,20,BALANCED,2,8.5,22.22,30.17,4.65,True,True,40.65
+Network Engineer,intermediate,40,FASTEST,1,6.0,11.11,19.17,4.7,True,True,31.91
+Network Engineer,intermediate,40,COMPREHENSIVE,3,38.5,55.56,64.26,4.7,True,True,67.76
+Network Engineer,intermediate,40,BALANCED,2,21.5,66.67,59.43,4.65,True,True,69.38
+Network Engineer,intermediate,80,FASTEST,1,6.0,11.11,19.17,4.7,True,True,31.91
+Network Engineer,intermediate,80,COMPREHENSIVE,4,69.5,88.89,80.86,4.72,True,True,86.94
+Network Engineer,intermediate,80,BALANCED,3,51.5,77.78,76.09,4.7,True,True,80.86
+Network Engineer,intermediate,160,FASTEST,1,6.0,11.11,19.17,4.7,True,True,31.91
+Network Engineer,intermediate,160,COMPREHENSIVE,4,69.5,88.89,80.86,4.72,True,True,86.94
+Network Engineer,intermediate,160,BALANCED,3,51.5,77.78,76.09,4.7,True,True,80.86
+QA / Software Test Engineer,beginner,20,FASTEST,1,9.0,25.0,23.22,4.6,True,True,38.4
+QA / Software Test Engineer,beginner,20,COMPREHENSIVE,2,17.0,37.5,34.25,4.55,True,True,47.64
+QA / Software Test Engineer,beginner,20,BALANCED,1,20.0,25.0,23.22,4.7,True,True,38.6
+QA / Software Test Engineer,beginner,40,FASTEST,1,32.0,12.5,26.31,4.9,True,True,36.01
+QA / Software Test Engineer,beginner,40,COMPREHENSIVE,3,40.0,50.0,43.59,4.6,True,True,56.32
+QA / Software Test Engineer,beginner,40,BALANCED,3,29.0,50.0,43.59,4.57,True,True,56.26
+QA / Software Test Engineer,beginner,80,FASTEST,1,32.0,12.5,26.31,4.9,True,True,36.01
+QA / Software Test Engineer,beginner,80,COMPREHENSIVE,4,72.0,62.5,69.9,4.67,True,True,72.67
+QA / Software Test Engineer,beginner,80,BALANCED,4,61.0,62.5,69.9,4.65,True,True,72.63
+QA / Software Test Engineer,beginner,160,FASTEST,1,32.0,12.5,26.31,4.9,True,True,36.01
+QA / Software Test Engineer,beginner,160,COMPREHENSIVE,4,132.0,87.5,84.55,4.67,True,True,88.01
+QA / Software Test Engineer,beginner,160,BALANCED,4,121.0,87.5,84.55,4.65,True,True,87.97
+QA / Software Test Engineer,intermediate,20,FASTEST,1,9.0,16.67,22.64,4.6,True,True,35.22
+QA / Software Test Engineer,intermediate,20,COMPREHENSIVE,2,17.0,33.33,39.54,4.55,True,True,48.56
+QA / Software Test Engineer,intermediate,20,BALANCED,2,20.0,33.33,31.22,4.55,True,True,44.81
+QA / Software Test Engineer,intermediate,40,FASTEST,1,9.0,16.67,22.64,4.6,True,True,35.22
+QA / Software Test Engineer,intermediate,40,COMPREHENSIVE,3,40.0,50.0,53.86,4.6,True,True,60.94
+QA / Software Test Engineer,intermediate,40,BALANCED,3,29.0,50.0,53.86,4.57,True,True,60.88
+QA / Software Test Engineer,intermediate,80,FASTEST,1,9.0,16.67,22.64,4.6,True,True,35.22
+QA / Software Test Engineer,intermediate,80,COMPREHENSIVE,2,70.0,66.67,66.89,4.65,True,True,72.73
+QA / Software Test Engineer,intermediate,80,BALANCED,2,59.0,66.67,66.89,4.6,True,True,72.64
+QA / Software Test Engineer,intermediate,160,FASTEST,1,150.0,16.67,23.68,4.7,True,True,35.89
+QA / Software Test Engineer,intermediate,160,COMPREHENSIVE,3,140.0,83.33,76.32,4.63,True,True,82.77
+QA / Software Test Engineer,intermediate,160,BALANCED,3,89.0,83.33,76.32,4.57,True,True,82.65
+Software Developer,beginner,20,FASTEST,1,8.0,3.03,8.54,4.5,True,True,23.9
+Software Developer,beginner,20,COMPREHENSIVE,2,14.0,9.09,16.24,4.6,True,True,29.69
+Software Developer,beginner,20,BALANCED,2,19.0,12.12,15.1,4.55,True,True,30.14
+Software Developer,beginner,40,FASTEST,1,23.0,3.03,8.6,4.7,True,True,24.33
+Software Developer,beginner,40,COMPREHENSIVE,4,39.4,21.21,28.59,4.67,True,True,39.63
+Software Developer,beginner,40,BALANCED,3,33.4,18.18,26.47,4.67,True,True,37.61
+Software Developer,beginner,80,FASTEST,1,23.0,3.03,8.6,4.7,True,True,24.33
+Software Developer,beginner,80,COMPREHENSIVE,4,75.4,27.27,40.86,4.67,True,True,47.27
+Software Developer,beginner,80,BALANCED,4,63.4,33.33,38.83,4.65,True,True,48.44
+Software Developer,beginner,160,FASTEST,1,23.0,3.03,8.6,4.7,True,True,24.33
+Software Developer,beginner,160,COMPREHENSIVE,4,152.4,39.39,50.87,4.72,True,True,56.12
+Software Developer,beginner,160,BALANCED,4,63.4,33.33,38.83,4.65,True,True,48.44
+Software Developer,intermediate,20,FASTEST,1,8.0,3.23,9.9,4.5,True,True,24.59
+Software Developer,intermediate,20,COMPREHENSIVE,2,14.0,9.68,18.84,4.6,True,True,31.07
+Software Developer,intermediate,20,BALANCED,2,17.0,16.13,16.55,4.65,True,True,32.39
+Software Developer,intermediate,40,FASTEST,1,8.0,3.23,9.9,4.5,True,True,24.59
+Software Developer,intermediate,40,COMPREHENSIVE,4,39.4,22.58,33.16,4.67,True,True,42.16
+Software Developer,intermediate,40,BALANCED,3,33.4,19.35,30.7,4.67,True,True,39.93
+Software Developer,intermediate,80,FASTEST,1,8.0,3.23,9.9,4.5,True,True,24.59
+Software Developer,intermediate,80,COMPREHENSIVE,4,73.4,32.26,45.68,4.67,True,True,51.19
+Software Developer,intermediate,80,BALANCED,4,63.4,35.48,45.03,4.65,True,True,51.98
+Software Developer,intermediate,160,FASTEST,1,8.0,3.23,9.9,4.5,True,True,24.59
+Software Developer,intermediate,160,COMPREHENSIVE,4,152.4,38.71,51.95,4.67,True,True,56.27
+Software Developer,intermediate,160,BALANCED,4,63.4,35.48,45.03,4.65,True,True,51.98

@@ -1,0 +1,8 @@
+job_id,predicted_skill,actual_skill
+1001,sql,sql
+1001,data analysis,data analysis
+1001,tableau,tableau
+1001,power bi,
+1002,python,python
+1002,,statistics
+1003,sql,
