@@ -1,6 +1,6 @@
 # Python
 __pycache__/
-*.pyc
+*.py[cod]
 .venv/
 venv/
 env/
@@ -10,16 +10,21 @@ env/
 .idea/
 .DS_Store
 
-# Runtime database (created automatically)
-data/skillpath.db
+# Secrets and runtime files
+.env
+.env.*
+!.env.example
 *.log
+*.db
+*.sqlite
+*.sqlite3
 
-# Large raw datasets: download them separately (see README, "Data")
+# Large raw datasets
 data/raw/*
 !data/raw/courses.csv
 data/onet/
 
-# Intermediate pipeline files: only the two files the app reads are tracked
+# Intermediate pipeline files
 data/processed/*
 !data/processed/skill_demand_normalized.csv
 !data/processed/occupation_skill_relevance.csv
